@@ -1,3 +1,5 @@
 h1 {text-align: center;}
-.secotitle {color: gray;}
-.secstyle {border: 2px solid;}
+.secotitle {color: #222222; text-align: center;}
+.secstyle {border: 2px solid; margin: 0, 0, 0, 10px; padding: 0, 0, 0, 5px;
+  width: 80px;
+}
